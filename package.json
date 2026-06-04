@@ -1,0 +1,12 @@
+{
+  "name": "microformer-coach-web",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "check:data": "node tools/check-data.mjs",
+    "serve": "python3 -m http.server 8080 --directory ."
+  },
+  "devDependencies": {}
+}

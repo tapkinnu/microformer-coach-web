@@ -1,0 +1,3132 @@
+[
+  {
+    "name": "Attached 45-Min Full Body Microformer",
+    "subtitle": "Slow Lagree-tempo full-body class \u2014 core, lunges, inner thighs, spider kicks, cable rows, arms, and obliques.",
+    "difficulty": "advanced",
+    "focusAreas": [
+      "Full body",
+      "Core",
+      "Legs",
+      "Obliques",
+      "Arms"
+    ],
+    "isBuiltIn": true,
+    "segments": [
+      {
+        "id": "a2e4305c-6459-5806-8fd6-60f38c2873b3",
+        "title": "Welcome & Setup",
+        "durationSeconds": 90,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ],
+          "note": "start light"
+        },
+        "focusArea": "Setup",
+        "position": "Seated on the front platform, toes under the strap on the carriage.",
+        "details": "Welcome the class, set one black spring in front, and prep the opening core block.",
+        "cues": [
+          "Set the tone \u2014 slow and controlled today"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": false
+      },
+      {
+        "id": "c92a7c0f-6c58-5615-af79-5cdb40cc6093",
+        "title": "Seated Core Lean Back to Leg Extension",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "Seated on front platform, toes under strap on carriage, hands behind the ears.",
+        "details": "Lean back and extend the legs together on a five-count tempo.",
+        "cues": [
+          "Core active",
+          "Slow is harder",
+          "Chest lifted"
+        ],
+        "corrections": [
+          "Do not arch the lower back",
+          "Elbows wide",
+          "Shoulders down"
+        ],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "core",
+        "isTransition": false,
+        "transitionNote": "Halfway, hold and twist"
+      },
+      {
+        "id": "00cf29ee-28ed-5866-9788-601e686ddf8b",
+        "title": "Seated Core Twist",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "",
+        "details": "Hold halfway; twist right and left from the ribs.",
+        "cues": [
+          "Hips still",
+          "Core tight"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "core",
+        "isTransition": false,
+        "transitionNote": "Pulse center next"
+      },
+      {
+        "id": "53814be7-6e7f-5e4f-8baa-2d1b3fa83a8c",
+        "title": "Seated Core Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "",
+        "details": "Pulse the upper body up/down in center, small controlled range.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "core",
+        "isTransition": false
+      },
+      {
+        "id": "597d9ab4-43e7-52d4-a361-8f86c740abd9",
+        "title": "Reverse Wheelbarrow",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core / shoulders",
+        "position": "Knees on front platform, straight arms on carriage (kneeling plank).",
+        "details": "Shoulders, hips, and knees in one line; tailbone toward the belly. Move the carriage away with the arms, body still.",
+        "cues": [],
+        "corrections": [
+          "Range can be small",
+          "Lower back does not drop",
+          "Shoulders down",
+          "Use lats and triceps"
+        ],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "plank",
+        "isTransition": false
+      },
+      {
+        "id": "270ba726-a14b-5cf7-a960-b983d2e55980",
+        "title": "Reverse Wheelbarrow Hold",
+        "durationSeconds": 10,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "",
+        "details": "Hold the furthest controlled point.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "plank",
+        "isTransition": false
+      },
+      {
+        "id": "4cd12a64-51d2-5367-9e2c-0c186acc83e6",
+        "title": "Reverse Wheelbarrow (Return)",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "",
+        "details": "Return to the full controlled range.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "plank",
+        "isTransition": false
+      },
+      {
+        "id": "00b8e173-ec8a-5fbb-a87b-ad552d25aaf5",
+        "title": "Plank to Pike",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "Toes on the front platform where the knees were; full plank.",
+        "details": "Lift the hips slowly to the ceiling and lower to plank. Keep the heels high and core tight.",
+        "cues": [],
+        "corrections": [
+          "Carriage max to number 1",
+          "Long spine",
+          "Don't round the back",
+          "Shoulders away from the ears"
+        ],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "plank",
+        "isTransition": false,
+        "transitionNote": "Set up Leg Block 1 \u2014 stay on 1 black spring"
+      },
+      {
+        "id": "ff9c9741-fc0d-553d-8156-eb9fb70445f0",
+        "title": "Runner's Lunge",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs / glutes",
+        "position": "Facing back, right (front) leg on carriage, back foot on front platform, feet & knees straight ahead.",
+        "details": "Bend the front leg and push the carriage away, leaning slightly forward; back heel high; slow return.",
+        "cues": [
+          "Front knee tracks over the ankle",
+          "Long spine, chest proud",
+          "Five-count out, five-count in"
+        ],
+        "corrections": [
+          "Front knee does not pass the toes",
+          "Keep the back heel lifted"
+        ],
+        "variations": [
+          "Back foot to the floor for stability",
+          "Arms overhead to increase challenge"
+        ],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "0353c3e9-0808-5889-8646-e43c4964b94a",
+        "title": "Static Hold Down / Forward Lean",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs / glutes",
+        "position": "",
+        "details": "Hold low; upper body leans toward the front leg; spine long, core engaged.",
+        "cues": [
+          "Stay low and still",
+          "Breathe into the stretch"
+        ],
+        "corrections": [],
+        "variations": [
+          "Arms optional \u2014 reach forward to deepen"
+        ],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "994ad1c4-ef44-54ec-9863-af9e1671ac65",
+        "title": "Lunge Full Range",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs / glutes",
+        "position": "",
+        "details": "Slow five-count up and down through the full lunge range.",
+        "cues": [
+          "Control the carriage both directions"
+        ],
+        "corrections": [],
+        "variations": [
+          "Arms by the ears or to the ceiling for extra load"
+        ],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "e014f668-655a-5dd5-99e5-b2ef5624ae33",
+        "title": "Moonwalker",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Hamstrings / glutes",
+        "position": "",
+        "details": "Stay low. Pull the carriage back from the back leg; at 90/90 press the back leg long again.",
+        "cues": [
+          "Front leg stays still \u2014 only the back leg moves",
+          "Keep the hips low"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "a454d914-d31a-544d-8a89-7eca239d4691",
+        "title": "90/90 Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs / glutes",
+        "position": "",
+        "details": "Stay low; small, slow, controlled pulses.",
+        "cues": [
+          "Centimeter-by-centimeter range",
+          "Keep tension the whole time"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "d4663e13-1029-5187-9b97-82b06b9c3878",
+        "title": "Switch Sides",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Turn around and set up the lunge on the other side.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Turn around and set up the lunge on the other side."
+      },
+      {
+        "id": "e054ce6c-1e72-58f0-99d6-e8d618e4d1ac",
+        "title": "Runner's Lunge",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs / glutes",
+        "position": "Facing back, left (front) leg on carriage, back foot on front platform, feet & knees straight ahead.",
+        "details": "Bend the front leg and push the carriage away, leaning slightly forward; back heel high; slow return.",
+        "cues": [
+          "Front knee tracks over the ankle",
+          "Long spine, chest proud",
+          "Five-count out, five-count in"
+        ],
+        "corrections": [
+          "Front knee does not pass the toes",
+          "Keep the back heel lifted"
+        ],
+        "variations": [
+          "Back foot to the floor for stability",
+          "Arms overhead to increase challenge"
+        ],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "2110e7ed-8d83-569f-9acd-320da02d8ecd",
+        "title": "Static Hold Down / Forward Lean",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs / glutes",
+        "position": "",
+        "details": "Hold low; upper body leans toward the front leg; spine long, core engaged.",
+        "cues": [
+          "Stay low and still",
+          "Breathe into the stretch"
+        ],
+        "corrections": [],
+        "variations": [
+          "Arms optional \u2014 reach forward to deepen"
+        ],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "802837b2-a485-51ec-b95d-25fae56e0baf",
+        "title": "Lunge Full Range",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs / glutes",
+        "position": "",
+        "details": "Slow five-count up and down through the full lunge range.",
+        "cues": [
+          "Control the carriage both directions"
+        ],
+        "corrections": [],
+        "variations": [
+          "Arms by the ears or to the ceiling for extra load"
+        ],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "a89bffa7-4f62-54fc-a694-59f074b84de9",
+        "title": "Moonwalker",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Hamstrings / glutes",
+        "position": "",
+        "details": "Stay low. Pull the carriage back from the back leg; at 90/90 press the back leg long again.",
+        "cues": [
+          "Front leg stays still \u2014 only the back leg moves",
+          "Keep the hips low"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "6114b515-677d-5354-8cdb-92f60df23917",
+        "title": "90/90 Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs / glutes",
+        "position": "",
+        "details": "Stay low; small, slow, controlled pulses.",
+        "cues": [
+          "Centimeter-by-centimeter range",
+          "Keep tension the whole time"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "c780f2b4-d2c8-53e4-b564-a1af1494a493",
+        "title": "Set Up Inner Thighs",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Face the side wall, one foot on carriage, one on the front platform, weight even.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Face the side wall, one foot on carriage, one on the front platform, weight even."
+      },
+      {
+        "id": "845c57b7-b3d6-5093-b5de-e57db13add82",
+        "title": "Gliding Open",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Inner thighs",
+        "position": "Facing side wall, one foot on carriage, other on front platform, weight even.",
+        "details": "Slowly open the legs and move the carriage away; slowly bring them together.",
+        "cues": [
+          "Weight equal on both feet",
+          "Tall posture",
+          "Soft knees"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "5cbf6fff-48dd-50a9-9697-5e27e191a01a",
+        "title": "Halfway Open Squat",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Inner thighs / quads",
+        "position": "",
+        "details": "Hold the carriage halfway open; squat up/down with no carriage movement.",
+        "cues": [
+          "Move centimeter by centimeter"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "f9e0b84b-0718-56dd-9cc3-b632edbb2389",
+        "title": "X-Squat",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Inner thighs / quads",
+        "position": "",
+        "details": "Combine the squat and the gliding open; raise the arms while gliding, return slowly.",
+        "cues": [],
+        "corrections": [
+          "Never let the carriage hit the front",
+          "Weight equal"
+        ],
+        "variations": [
+          "Smaller movement to regress"
+        ],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "c5250b17-7363-52c6-9c78-3b56438848c0",
+        "title": "Squat Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Quads / inner thighs",
+        "position": "",
+        "details": "Stay low; small, slow pulses.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false,
+        "transitionNote": "Spring change to 1 white + 1 grey"
+      },
+      {
+        "id": "b2d5b7ae-6e84-5970-84e3-95a442386498",
+        "title": "Change Springs \u00b7 1 White + 1 Grey",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Change to 1 white + 1 grey and set up the spider kick, kneeling on the carriage.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Change to 1 white + 1 grey and set up the spider kick, kneeling on the carriage."
+      },
+      {
+        "id": "ba8fec0d-9b70-5705-afa4-4be53d91f162",
+        "title": "Spider Kick",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes / outer thigh",
+        "position": "Facing side, right knee on carriage, hands on carriage, opposite foot against the front platform edge.",
+        "details": "Align the working knee and the bracing foot; press the carriage out and bring it in. Working leg stops at 90\u00b0.",
+        "cues": [
+          "Square the hips",
+          "Long spine",
+          "Stop the press at 90 degrees"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "0dde6e39-7758-5db0-8635-1e2051ec1ffe",
+        "title": "Hold Halfway",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes",
+        "position": "",
+        "details": "Hold at the most challenging point; breathe and stay strong.",
+        "cues": [
+          "Find your sticking point and hold"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "e8086c4d-3719-5db2-923c-848d2e012693",
+        "title": "Spider Kick (Full Range)",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes / outer thigh",
+        "position": "",
+        "details": "Return to the full controlled range of the kick.",
+        "cues": [
+          "Slow and even on the return"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "3daeda90-0922-597c-bd9c-c6abc5f346f1",
+        "title": "Spider Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes",
+        "position": "",
+        "details": "Move to halfway and pulse; small, slow, controlled.",
+        "cues": [
+          "Keep the hips square"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "80abb7e8-98d8-50af-bdfd-04bdd51bf01f",
+        "title": "Switch Sides",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Repeat the spider kick on the other side.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Repeat the spider kick on the other side."
+      },
+      {
+        "id": "5a9f7acd-d049-5fc8-8f42-295c20358ae7",
+        "title": "Spider Kick",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes / outer thigh",
+        "position": "Facing side, left knee on carriage, hands on carriage, opposite foot against the front platform edge.",
+        "details": "Align the working knee and the bracing foot; press the carriage out and bring it in. Working leg stops at 90\u00b0.",
+        "cues": [
+          "Square the hips",
+          "Long spine",
+          "Stop the press at 90 degrees"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "e77e5eaf-e0c8-5a03-b6b9-d994359686d6",
+        "title": "Hold Halfway",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes",
+        "position": "",
+        "details": "Hold at the most challenging point; breathe and stay strong.",
+        "cues": [
+          "Find your sticking point and hold"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "96501bb1-913a-5be6-9f3f-83f392949b35",
+        "title": "Spider Kick (Full Range)",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes / outer thigh",
+        "position": "",
+        "details": "Return to the full controlled range of the kick.",
+        "cues": [
+          "Slow and even on the return"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "65f05f72-3c05-5696-8aca-08f57916d763",
+        "title": "Spider Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes",
+        "position": "",
+        "details": "Move to halfway and pulse; small, slow, controlled.",
+        "cues": [
+          "Keep the hips square"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "1098b844-3f1f-5c3d-9fc8-83a4d7688dcf",
+        "title": "Add Cables \u00b7 1 Black + 1 White",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Attach the arm cables, move to the back of the machine, change to 1 black + 1 white.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Attach the arm cables, move to the back of the machine, change to 1 black + 1 white."
+      },
+      {
+        "id": "80ec4bab-1da9-5639-bd8c-5074e290fbd4",
+        "title": "90/90 Squat + Low Row",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs + back",
+        "position": "Arm cables attached, at back of machine. Facing front, right (front) leg on back platform, other foot on the floor behind.",
+        "details": "Lower to 90/90 (front & back legs at right angles); as you lower, pull the arms into a low row; rise and extend the arms.",
+        "cues": [
+          "Back heel high",
+          "Front knee above the ankle",
+          "Engage the lats on the row"
+        ],
+        "corrections": [
+          "Back knee stays under the hips"
+        ],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "1826a799-8156-5114-aa75-9856a0adf45f",
+        "title": "Static 90/90 Hold + Arms Row",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs + back",
+        "position": "",
+        "details": "Hold the legs at 90/90 while the arms row.",
+        "cues": [
+          "Hold the line of the legs perfectly still"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "d2fee502-f88d-5982-b0dd-608363eb6fa8",
+        "title": "90/90 Full Range with Arms",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs + back",
+        "position": "",
+        "details": "Five-count rise and lower, arms rowing with the legs.",
+        "cues": [
+          "Sync the arms and legs"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "7c971f3d-a0a5-5d1f-8e6b-2e23cb4d422e",
+        "title": "Static 90/90 Legs & Arms",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs + back",
+        "position": "",
+        "details": "Hold 90/90 in the row/arms position.",
+        "cues": [
+          "Everything still, everything engaged"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "74f41255-c668-5b42-82ea-f5dcba1e546c",
+        "title": "90/90 Leg Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs",
+        "position": "",
+        "details": "Arms static; legs pulse.",
+        "cues": [
+          "Tiny controlled leg pulses"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "99899120-4adf-5bb7-bbd0-43036f8813b5",
+        "title": "Switch Sides",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Repeat the 90/90 squat + low row on the other side.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Repeat the 90/90 squat + low row on the other side."
+      },
+      {
+        "id": "d5e6a576-3bed-55b3-bcff-59f7a1794e18",
+        "title": "90/90 Squat + Low Row",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs + back",
+        "position": "Arm cables attached, at back of machine. Facing front, left (front) leg on back platform, other foot on the floor behind.",
+        "details": "Lower to 90/90 (front & back legs at right angles); as you lower, pull the arms into a low row; rise and extend the arms.",
+        "cues": [
+          "Back heel high",
+          "Front knee above the ankle",
+          "Engage the lats on the row"
+        ],
+        "corrections": [
+          "Back knee stays under the hips"
+        ],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "52a85097-afa1-5365-89f7-5df40712bde1",
+        "title": "Static 90/90 Hold + Arms Row",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs + back",
+        "position": "",
+        "details": "Hold the legs at 90/90 while the arms row.",
+        "cues": [
+          "Hold the line of the legs perfectly still"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "38a3e3ea-263e-5e4e-b114-e8757afff1e9",
+        "title": "90/90 Full Range with Arms",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs + back",
+        "position": "",
+        "details": "Five-count rise and lower, arms rowing with the legs.",
+        "cues": [
+          "Sync the arms and legs"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "479f98ce-221a-51a6-b1d1-3b142b1d7850",
+        "title": "Static 90/90 Legs & Arms",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs + back",
+        "position": "",
+        "details": "Hold 90/90 in the row/arms position.",
+        "cues": [
+          "Everything still, everything engaged"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "24792006-bad0-5b0c-b18a-0482116c5959",
+        "title": "90/90 Leg Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            },
+            {
+              "color": "white",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs",
+        "position": "",
+        "details": "Arms static; legs pulse.",
+        "cues": [
+          "Tiny controlled leg pulses"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "faf1502b-66f9-5e72-bea9-561558793d19",
+        "title": "Detach Cables \u00b7 1 Black",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Detach the cables and change to 1 black. Kneel at the back of the machine facing the carriage; grab the handles.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Detach the cables and change to 1 black. Kneel at the back of the machine facing the carriage; grab the handles."
+      },
+      {
+        "id": "bd65ff97-ad2f-5da4-b3af-b1ab61a821c9",
+        "title": "Sexy Back / Triceps Extension",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Triceps / back",
+        "position": "Kneeling at back of machine facing carriage, grab the handles, hinge forward with a flat back and open chest.",
+        "details": "Extend the forearms back and bend; elbows lifted in line with the shoulders, shoulder blades together.",
+        "cues": [
+          "Elbows behind the shoulders",
+          "Squeeze the shoulder blades"
+        ],
+        "corrections": [],
+        "variations": [
+          "Palms up for harder",
+          "Longer strap for simpler"
+        ],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false
+      },
+      {
+        "id": "d836616b-d69e-55dd-a8e9-2bfdff9215be",
+        "title": "Arms Back Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Triceps",
+        "position": "",
+        "details": "Extend the arms and pulse the forearms; small, slow, controlled \u2014 the carriage moves.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false
+      },
+      {
+        "id": "ed18c286-a0b1-517e-b8d7-08dfa7e8d495",
+        "title": "Bicep Curls",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Biceps",
+        "position": "Low kneeling, elbows lifted so the upper arms are parallel to the floor, palms up.",
+        "details": "Curl the forearms but do not go over 90\u00b0, then slowly extend.",
+        "cues": [
+          "Keep the elbows lifted"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false
+      },
+      {
+        "id": "52d8501c-bb5f-57c5-a680-aeaad1a05f98",
+        "title": "Bicep Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Biceps",
+        "position": "",
+        "details": "Arms and elbows high; pulse centimeter by centimeter.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false
+      },
+      {
+        "id": "19745a4e-915c-5f66-a7a6-4d6d0c294829",
+        "title": "Bicep Hold",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Biceps",
+        "position": "",
+        "details": "Hold at 90\u00b0; do not drop the elbows. Last arm variation.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false,
+        "transitionNote": "Set up obliques \u2014 knees on front platform, elbows on carriage"
+      },
+      {
+        "id": "d5a4262a-8970-5dd1-984a-246dda66927e",
+        "title": "Twisted Saw",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques / core",
+        "position": "Knees on front platform, elbows on carriage, knee plank, hips twisted so the obliques face down.",
+        "details": "Rotate the hips toward the right so more weight is on that knee. Push the carriage away with the arms, maintaining the hip twist.",
+        "cues": [
+          "Shoulders and hips aligned",
+          "Maintain the twist the whole rep"
+        ],
+        "corrections": [
+          "Do not drop the hips"
+        ],
+        "variations": [],
+        "side": "right",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "8be0739c-b2d9-5ea5-a133-9a9c3e4b9bc9",
+        "title": "Furthest Point Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques / core",
+        "position": "",
+        "details": "Find the furthest point and pulse/hold centimeter by centimeter.",
+        "cues": [
+          "Small range, big tension"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "cbb6ad6b-8d73-51d0-a6a6-4920f181945b",
+        "title": "Side Plank Thread the Needle",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "Side plank, right elbow under the shoulder.",
+        "details": "Reach the top arm under the body and twist, then open to the ceiling.",
+        "cues": [
+          "Lift the hips on the open"
+        ],
+        "corrections": [],
+        "variations": [
+          "Straighten the legs for more challenge"
+        ],
+        "side": "right",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "c5f22834-f606-5432-b066-0ed04fc365b3",
+        "title": "Switch Sides",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Side plank first, then the saw with the hips twisted on the other side.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Side plank first, then the saw with the hips twisted on the other side."
+      },
+      {
+        "id": "92c47c70-a6e9-51db-9a6e-7a1066a5990d",
+        "title": "Twisted Saw",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques / core",
+        "position": "Knees on front platform, elbows on carriage, knee plank, hips twisted so the obliques face down.",
+        "details": "Rotate the hips toward the left so more weight is on that knee. Push the carriage away with the arms, maintaining the hip twist.",
+        "cues": [
+          "Shoulders and hips aligned",
+          "Maintain the twist the whole rep"
+        ],
+        "corrections": [
+          "Do not drop the hips"
+        ],
+        "variations": [],
+        "side": "left",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "216b3d08-93aa-59ca-b4d7-ff21b09ea0b0",
+        "title": "Furthest Point Pulses",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques / core",
+        "position": "",
+        "details": "Find the furthest point and pulse/hold centimeter by centimeter.",
+        "cues": [
+          "Small range, big tension"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "999ac8d0-52a5-5410-ab76-94265d0d86ab",
+        "title": "Side Plank Thread the Needle",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "Side plank, left elbow under the shoulder.",
+        "details": "Reach the top arm under the body and twist, then open to the ceiling.",
+        "cues": [
+          "Lift the hips on the open"
+        ],
+        "corrections": [],
+        "variations": [
+          "Straighten the legs for more challenge"
+        ],
+        "side": "left",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "0f9d977a-e803-516c-8b82-eec9c86621e8",
+        "title": "Cool Down & Breath",
+        "durationSeconds": 210,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ],
+          "note": "release tension"
+        },
+        "focusArea": "Recovery",
+        "position": "Seated or kneeling, carriage still.",
+        "details": "Slow stretches and breath work. Thank the class and let the heart rate settle.",
+        "cues": [
+          "Long exhales",
+          "Roll the shoulders down and back"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": false
+      }
+    ],
+    "id": "cf09a145-2e87-5cc1-b622-b139b5fa57e5"
+  },
+  {
+    "name": "Beginner 35-Min Foundations",
+    "subtitle": "An approachable on-ramp with longer setups, shorter holds, and clear cues. Original template informed by common microformer structure.",
+    "difficulty": "beginner",
+    "focusAreas": [
+      "Foundations",
+      "Core",
+      "Legs",
+      "Mobility"
+    ],
+    "isBuiltIn": true,
+    "segments": [
+      {
+        "id": "80755b95-c5d2-5f72-b90d-46d5a903726a",
+        "title": "Welcome & Breathing",
+        "durationSeconds": 205,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Setup",
+        "position": "",
+        "details": "Introduce the springs and the carriage; a few breaths to center.",
+        "cues": [
+          "No rush \u2014 quality over speed"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": false
+      },
+      {
+        "id": "25bb8dbc-60ac-5c5d-8aab-9ec3af5ae709",
+        "title": "High Plank Hold",
+        "durationSeconds": 100,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core / shoulders",
+        "position": "Hands on the front platform, toes on the carriage.",
+        "details": "Hold a steady high plank, pushing back through the heels.",
+        "cues": [
+          "Soft bend in the elbows",
+          "Hips in line"
+        ],
+        "corrections": [],
+        "variations": [
+          "Drop one foot to the floor to modify"
+        ],
+        "side": "bilateral",
+        "movementType": "plank",
+        "isTransition": false
+      },
+      {
+        "id": "a48778f0-e899-5df2-b6fc-5aa534fb9889",
+        "title": "Plank to Pike (Slow)",
+        "durationSeconds": 100,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "",
+        "details": "Lift the hips toward the ceiling and lower slowly.",
+        "cues": [],
+        "corrections": [
+          "Long spine, don't round"
+        ],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "plank",
+        "isTransition": false
+      },
+      {
+        "id": "b70e527a-3a16-5868-a9e6-64979c3cdc9b",
+        "title": "Seated Core Lean Back",
+        "durationSeconds": 135,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "Seated on the front platform, toes under the strap.",
+        "details": "Lean back and extend the legs on a slow count.",
+        "cues": [
+          "Chest lifted",
+          "Core active"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "core",
+        "isTransition": false
+      },
+      {
+        "id": "404ee4b2-1da7-5728-8744-1303ef0853a9",
+        "title": "Seated Core Twist",
+        "durationSeconds": 100,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "",
+        "details": "Hold halfway and rotate gently from the ribs.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "core",
+        "isTransition": false
+      },
+      {
+        "id": "0e632108-1d24-5456-b12a-4c5113eb7c4f",
+        "title": "Set Up Lunges",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Face the back; front foot on carriage, back foot on the platform.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Face the back; front foot on carriage, back foot on the platform."
+      },
+      {
+        "id": "30008d27-38a4-5c93-b548-ad55f533aeef",
+        "title": "Runner's Lunge \u2014 Right",
+        "durationSeconds": 135,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs",
+        "position": "",
+        "details": "Bend the front leg and press the carriage away; slow return.",
+        "cues": [
+          "Knee over the ankle"
+        ],
+        "corrections": [],
+        "variations": [
+          "Back foot down for balance"
+        ],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "7f0405a8-9802-5b3d-9d26-0e7e85898f1d",
+        "title": "Runner's Lunge \u2014 Left",
+        "durationSeconds": 135,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs",
+        "position": "",
+        "details": "Repeat on the other side, matching the tempo.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "ccc4c2f3-52b9-53b8-af7a-cb360a602d9c",
+        "title": "Set Up Inner Thighs",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Face the side; one foot on carriage, one on platform, weight even.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Face the side; one foot on carriage, one on platform, weight even."
+      },
+      {
+        "id": "aa62ce35-e755-5a54-a022-cb6a33c3a0d5",
+        "title": "Gliding Open",
+        "durationSeconds": 135,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Inner thighs",
+        "position": "",
+        "details": "Open the legs slowly and bring them back together.",
+        "cues": [
+          "Soft knees",
+          "Even weight"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "538109c0-0ee0-5df0-aa6a-8b12365ecd74",
+        "title": "Halfway Squat Hold",
+        "durationSeconds": 100,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Quads",
+        "position": "",
+        "details": "Hold halfway open and squat with a small range.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "335e9939-015f-5dd4-95bd-e0e9df8a2eb6",
+        "title": "Set Up Kneeling Arms",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Kneel at the back, grab the handles, flat back.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Kneel at the back, grab the handles, flat back."
+      },
+      {
+        "id": "72fd1f1e-33ae-5219-bd21-2f517a493a04",
+        "title": "Triceps Extension",
+        "durationSeconds": 135,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Triceps",
+        "position": "",
+        "details": "Extend the forearms back and bend, elbows lifted.",
+        "cues": [
+          "Elbows stay high"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false
+      },
+      {
+        "id": "d21e62c4-3e38-5cb6-98b6-ceba984c9f54",
+        "title": "Bicep Curls",
+        "durationSeconds": 135,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Biceps",
+        "position": "",
+        "details": "Curl to 90\u00b0 and extend slowly.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false
+      },
+      {
+        "id": "11a8ba82-a655-5378-9cff-cdc492ec82cf",
+        "title": "Set Up Obliques",
+        "durationSeconds": 30,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Knees on platform, elbows on carriage, hips twisted.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Knees on platform, elbows on carriage, hips twisted."
+      },
+      {
+        "id": "75639218-7733-580c-bbed-6e2139f2146c",
+        "title": "Twisted Saw \u2014 Right",
+        "durationSeconds": 135,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "",
+        "details": "Press the carriage away while holding the hip twist.",
+        "cues": [],
+        "corrections": [
+          "Don't drop the hips"
+        ],
+        "variations": [],
+        "side": "right",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "30204105-fb33-5432-9fbe-162f191e0b0f",
+        "title": "Twisted Saw \u2014 Left",
+        "durationSeconds": 135,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "",
+        "details": "Repeat on the other side.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "6012d4c4-1fef-5587-8067-405cd7edca9d",
+        "title": "Cool Down Stretch",
+        "durationSeconds": 295,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Recovery",
+        "position": "",
+        "details": "Gentle stretches and breathing to finish.",
+        "cues": [
+          "Long, slow exhales"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": false
+      }
+    ],
+    "id": "cc324ce1-2a2b-5304-a43f-10b7ded973d0"
+  },
+  {
+    "name": "45-Min Strength & Obliques",
+    "subtitle": "Full body with extra plank, oblique, and inner-thigh emphasis. Original template; segments kept under ~2 min per side.",
+    "difficulty": "intermediate",
+    "focusAreas": [
+      "Strength",
+      "Obliques",
+      "Core",
+      "Inner thighs"
+    ],
+    "isBuiltIn": true,
+    "segments": [
+      {
+        "id": "cf7411c4-a22c-5833-b6a8-e76d8c62cc2d",
+        "title": "Welcome & Core Prep",
+        "durationSeconds": 160,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Setup",
+        "position": "",
+        "details": "Set one black spring and warm up the core with a few slow leans.",
+        "cues": [
+          "Brace the core early"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": false
+      },
+      {
+        "id": "5985d16c-e1f4-5847-8ca1-5597e0fa4268",
+        "title": "High Plank Hold",
+        "durationSeconds": 105,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core / shoulders",
+        "position": "Hands on platform, toes on carriage.",
+        "details": "Steady plank, pushing back through the heels.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "plank",
+        "isTransition": false
+      },
+      {
+        "id": "6fab2069-06e2-5d93-9697-5936afba2d89",
+        "title": "Reverse Wheelbarrow",
+        "durationSeconds": 130,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "Kneeling plank, straight arms on carriage.",
+        "details": "Press the carriage away with the arms; body still.",
+        "cues": [],
+        "corrections": [
+          "Shoulders down",
+          "Use the lats and triceps"
+        ],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "plank",
+        "isTransition": false
+      },
+      {
+        "id": "a6b19857-56e2-56b8-be0d-9c2b0a293dcb",
+        "title": "Plank to Pike",
+        "durationSeconds": 130,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "",
+        "details": "Lift the hips up and lower with control.",
+        "cues": [],
+        "corrections": [
+          "Long spine, don't round"
+        ],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "plank",
+        "isTransition": false
+      },
+      {
+        "id": "a403a348-7b7e-5281-9747-fb44a741e67c",
+        "title": "Seated Core Leg Extension",
+        "durationSeconds": 130,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "Seated, toes under strap.",
+        "details": "Lean back, extend the legs, slow tempo.",
+        "cues": [
+          "Chest lifted"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "core",
+        "isTransition": false
+      },
+      {
+        "id": "af5c7f39-0c13-51f8-b769-bc964190998a",
+        "title": "Seated Core Pulses",
+        "durationSeconds": 80,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "",
+        "details": "Small controlled pulses in center.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "core",
+        "isTransition": false
+      },
+      {
+        "id": "94c36799-8a44-5c79-9a40-a9ee4d560bfb",
+        "title": "Twisted Saw",
+        "durationSeconds": 130,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "Knees on platform, elbows on carriage, hips twisted.",
+        "details": "Press the carriage away, maintaining a strong hip twist.",
+        "cues": [],
+        "corrections": [
+          "Keep the hips lifted"
+        ],
+        "variations": [],
+        "side": "right",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "aab9e3bf-3463-50fa-9114-ade884a5c8d7",
+        "title": "Furthest-Point Pulses",
+        "durationSeconds": 55,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "",
+        "details": "Hold the deepest point and pulse small.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "ed576e08-c04b-501d-906a-22ac9ab1094d",
+        "title": "Side Plank Thread the Needle",
+        "durationSeconds": 105,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "",
+        "details": "Thread the top arm under and open to the ceiling.",
+        "cues": [],
+        "corrections": [],
+        "variations": [
+          "Straighten the legs for more"
+        ],
+        "side": "right",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "8be39f92-50d1-503e-b76c-b4a19af511a9",
+        "title": "Switch Sides",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Repeat the oblique series on the other side.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Repeat the oblique series on the other side."
+      },
+      {
+        "id": "3f34fb51-6249-5b17-b95c-e62eaaf8b44a",
+        "title": "Twisted Saw",
+        "durationSeconds": 130,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "Knees on platform, elbows on carriage, hips twisted.",
+        "details": "Press the carriage away, maintaining a strong hip twist.",
+        "cues": [],
+        "corrections": [
+          "Keep the hips lifted"
+        ],
+        "variations": [],
+        "side": "left",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "55c57cea-6992-5b6d-8039-bde165f192f0",
+        "title": "Furthest-Point Pulses",
+        "durationSeconds": 55,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "",
+        "details": "Hold the deepest point and pulse small.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "2eda2d31-41e1-52f4-a5a4-b33708f43e84",
+        "title": "Side Plank Thread the Needle",
+        "durationSeconds": 105,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Obliques",
+        "position": "",
+        "details": "Thread the top arm under and open to the ceiling.",
+        "cues": [],
+        "corrections": [],
+        "variations": [
+          "Straighten the legs for more"
+        ],
+        "side": "left",
+        "movementType": "obliques",
+        "isTransition": false
+      },
+      {
+        "id": "0f7770b7-5859-517f-b48f-451a9142b721",
+        "title": "Set Up Lunges",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Face the back for a strong lunge block.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Face the back for a strong lunge block."
+      },
+      {
+        "id": "d08d31be-fbb3-59ca-ba19-993efba15937",
+        "title": "Runner's Lunge \u2014 Right",
+        "durationSeconds": 130,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs",
+        "position": "",
+        "details": "Press the carriage away and return slowly.",
+        "cues": [
+          "Knee over ankle"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "3e4364f9-7a51-52f3-a575-32bd30dd9eac",
+        "title": "Moonwalker \u2014 Right",
+        "durationSeconds": 105,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Hamstrings",
+        "position": "",
+        "details": "Stay low; only the back leg moves.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "ed9b544b-8046-5cd2-83f7-9286cedfe9d4",
+        "title": "Runner's Lunge \u2014 Left",
+        "durationSeconds": 130,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs",
+        "position": "",
+        "details": "Repeat the lunge on the other side.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "86b1e5ee-1141-5ebe-958a-e6983ca3505c",
+        "title": "Moonwalker \u2014 Left",
+        "durationSeconds": 105,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Hamstrings",
+        "position": "",
+        "details": "Repeat the moonwalker on the other side.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "b5c74811-6c5a-57c3-b619-85cc7c95a9ca",
+        "title": "Set Up Inner Thighs \u00b7 Light",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Face the side, weight even on both feet.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Face the side, weight even on both feet."
+      },
+      {
+        "id": "b3669b40-e087-5a48-a01e-e1643403f543",
+        "title": "Gliding Open",
+        "durationSeconds": 130,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Inner thighs",
+        "position": "",
+        "details": "Open and close the legs slowly.",
+        "cues": [
+          "Even weight",
+          "Tall posture"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "c68dd401-1393-5bed-af60-a8e9cfe05c84",
+        "title": "X-Squat",
+        "durationSeconds": 130,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Inner thighs / quads",
+        "position": "",
+        "details": "Combine the squat with the glide; arms rise as you open.",
+        "cues": [],
+        "corrections": [
+          "Never let the carriage slam the front"
+        ],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "d14968d3-3381-5451-a911-eecc38dce90b",
+        "title": "Squat Pulses",
+        "durationSeconds": 80,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Quads",
+        "position": "",
+        "details": "Low pulses, small and slow.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "e768c0dd-1653-5f34-86aa-42906b96bc07",
+        "title": "Set Up Arms \u00b7 1 Black",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Kneel at the back, grab the handles.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Kneel at the back, grab the handles."
+      },
+      {
+        "id": "797c9f03-913c-5ce3-b31f-c9b4ca671c39",
+        "title": "Triceps Extension",
+        "durationSeconds": 105,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Triceps",
+        "position": "",
+        "details": "Extend back and bend, elbows lifted.",
+        "cues": [],
+        "corrections": [],
+        "variations": [
+          "Palms up for harder"
+        ],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false
+      },
+      {
+        "id": "250ab8de-2531-5d0c-bcb3-e27568cd7fb5",
+        "title": "Bicep Curls",
+        "durationSeconds": 105,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Biceps",
+        "position": "",
+        "details": "Curl to 90\u00b0 and extend slowly.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false
+      },
+      {
+        "id": "4f58546f-57ba-53ec-a6ba-9ce172526c09",
+        "title": "Bicep Hold",
+        "durationSeconds": 55,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Biceps",
+        "position": "",
+        "details": "Hold at 90\u00b0 to finish the arms.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "arms",
+        "isTransition": false
+      },
+      {
+        "id": "386dec4b-d1be-585d-95eb-efa47dad4ab4",
+        "title": "Cool Down & Breath",
+        "durationSeconds": 230,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Recovery",
+        "position": "",
+        "details": "Stretch and breathe to close the class.",
+        "cues": [
+          "Long exhales"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": false
+      }
+    ],
+    "id": "c28d6766-7a4c-5cca-a3a0-ac60b9e20cd1"
+  },
+  {
+    "name": "25-Min Express Lower Body",
+    "subtitle": "A quick, legs-forward session: lunges, moonwalker, spider kick, glider, and a short core finisher. Original express template.",
+    "difficulty": "intermediate",
+    "focusAreas": [
+      "Lower body",
+      "Glutes",
+      "Inner thighs"
+    ],
+    "isBuiltIn": true,
+    "segments": [
+      {
+        "id": "1b67c774-b5d0-546b-97ee-4ee1bc93b9a0",
+        "title": "Quick Setup",
+        "durationSeconds": 120,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Setup",
+        "position": "",
+        "details": "One black spring; brief warm-up breaths and a few bodyweight squats.",
+        "cues": [
+          "We move fast but stay controlled"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": false
+      },
+      {
+        "id": "e506975b-88ea-5f9d-af24-92b381d0e1cd",
+        "title": "Runner's Lunge \u2014 Right",
+        "durationSeconds": 120,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs",
+        "position": "Facing back, right foot on carriage, back foot on platform.",
+        "details": "Press the carriage away and return on a slow count.",
+        "cues": [
+          "Knee over ankle"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "f60b1e9a-3df6-5d5d-bb88-4f73d092346e",
+        "title": "Moonwalker \u2014 Right",
+        "durationSeconds": 90,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Hamstrings / glutes",
+        "position": "",
+        "details": "Stay low; pull from the back leg to 90/90 and press long.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "6efde571-0c03-5510-9440-f0b018fb1381",
+        "title": "Runner's Lunge \u2014 Left",
+        "durationSeconds": 120,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Legs",
+        "position": "",
+        "details": "Repeat the lunge on the left.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "365e7e01-f3f5-589e-ba2f-6b29d696351a",
+        "title": "Moonwalker \u2014 Left",
+        "durationSeconds": 90,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Hamstrings / glutes",
+        "position": "",
+        "details": "Repeat the moonwalker on the left.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "lunge",
+        "isTransition": false
+      },
+      {
+        "id": "5576c012-2e8e-5110-a620-321dbd65aa6b",
+        "title": "Change Springs \u00b7 1 White + 1 Grey",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Change to 1 white + 1 grey and kneel on the carriage for the spider kick.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Change to 1 white + 1 grey and kneel on the carriage for the spider kick."
+      },
+      {
+        "id": "6bc496f6-cf7a-5c68-b77e-b45928c91377",
+        "title": "Spider Kick \u2014 Right",
+        "durationSeconds": 120,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes / outer thigh",
+        "position": "",
+        "details": "Press the carriage out and in; working leg stops at 90\u00b0.",
+        "cues": [
+          "Square hips",
+          "Long spine"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "548d521e-7b50-534f-af9f-69a5afad4890",
+        "title": "Spider Pulses \u2014 Right",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes",
+        "position": "",
+        "details": "Halfway pulses, small and slow.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "right",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "c691a445-f2c2-5500-9b61-fc2c76ebe532",
+        "title": "Spider Kick \u2014 Left",
+        "durationSeconds": 120,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes / outer thigh",
+        "position": "",
+        "details": "Repeat the spider kick on the left.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "66b008e8-c5fb-548b-8c77-6343b41ab3d4",
+        "title": "Spider Pulses \u2014 Left",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            },
+            {
+              "color": "grey",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Glutes",
+        "position": "",
+        "details": "Repeat the pulses on the left.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "left",
+        "movementType": "glute",
+        "isTransition": false
+      },
+      {
+        "id": "5f76daf7-1350-553c-9423-48ef6a183f93",
+        "title": "Set Up Inner Thighs \u00b7 Light",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Face the side, weight even.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Face the side, weight even."
+      },
+      {
+        "id": "6e37630d-6afa-5ec0-a71f-ac9f5ed6546f",
+        "title": "Gliding Open",
+        "durationSeconds": 120,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Inner thighs",
+        "position": "",
+        "details": "Open and close the legs slowly.",
+        "cues": [
+          "Soft knees",
+          "Even weight"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "991a3c2b-32ba-5e05-8ed0-3d5998802fd9",
+        "title": "Halfway Open Squat",
+        "durationSeconds": 120,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Quads / inner thighs",
+        "position": "",
+        "details": "Hold halfway open and squat with a small range.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "innerThigh",
+        "isTransition": false
+      },
+      {
+        "id": "4d45c75a-f40d-5278-93ca-c1619ac52585",
+        "title": "Core Finisher \u00b7 1 Black",
+        "durationSeconds": 20,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Transition / setup",
+        "position": "",
+        "details": "Quick spring change to 1 black; seated core to finish.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": true,
+        "transitionNote": "Quick spring change to 1 black; seated core to finish."
+      },
+      {
+        "id": "f67bced2-9408-5464-8ab3-2f9281d63033",
+        "title": "Seated Core Leg Extension",
+        "durationSeconds": 120,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "Seated, toes under the strap.",
+        "details": "Lean back and extend the legs; slow and strong.",
+        "cues": [
+          "Chest lifted",
+          "Core active"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "core",
+        "isTransition": false
+      },
+      {
+        "id": "28dade34-107e-52e7-ac40-674d30371312",
+        "title": "Seated Core Pulses",
+        "durationSeconds": 60,
+        "spring": {
+          "springs": [
+            {
+              "color": "black",
+              "count": 1
+            }
+          ]
+        },
+        "focusArea": "Core",
+        "position": "",
+        "details": "Small controlled pulses to finish.",
+        "cues": [],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "core",
+        "isTransition": false
+      },
+      {
+        "id": "0e21cb76-a1d7-569b-be61-c8959f06d385",
+        "title": "Cool Down",
+        "durationSeconds": 120,
+        "spring": {
+          "springs": [
+            {
+              "color": "white",
+              "count": 1
+            }
+          ],
+          "note": "light setting"
+        },
+        "focusArea": "Recovery",
+        "position": "",
+        "details": "A short stretch and a few breaths.",
+        "cues": [
+          "Slow it all down"
+        ],
+        "corrections": [],
+        "variations": [],
+        "side": "bilateral",
+        "movementType": "generic",
+        "isTransition": false
+      }
+    ],
+    "id": "681bf52e-5fb3-5eb5-9bd8-15d73e7a09fd"
+  }
+]
