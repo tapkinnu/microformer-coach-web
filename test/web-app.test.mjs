@@ -19,9 +19,9 @@ import {
 } from '../src/session.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const repoRoot = path.resolve(__dirname, '../..');
+const repoRoot = path.resolve(__dirname, '..');
 const rawBuiltIns = JSON.parse(
-  fs.readFileSync(path.join(repoRoot, 'MicroformerCoach/Resources/BuiltInPrograms.json'), 'utf8'),
+  fs.readFileSync(path.join(repoRoot, 'data/built-in-programs.json'), 'utf8'),
 );
 
 test('normalizes Swift-generated built-in program JSON for the web app', () => {

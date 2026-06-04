@@ -38,7 +38,6 @@ The app includes a web manifest, Apple web-app meta tags, icons, and a service w
 - Built-in program library using the same `BuiltInPrograms.json` as the SwiftUI prototype.
 - 4 programs / 122 movements.
 - Live instructor mode with countdown, movement details, spring settings, cues, corrections, variations, transition notes, upcoming movement, progress bar, and controls.
-- Simple animated carriage/movement diagram.
 - Custom program editor with add/edit/delete/reorder segments.
 - Custom programs persist in iPhone browser `localStorage`.
 - Dark, high-contrast mobile-first UI.

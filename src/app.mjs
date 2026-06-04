@@ -32,17 +32,6 @@ import {
 } from './session.mjs';
 
 const STORAGE_KEY = 'microformer.customPrograms.v1';
-const MOVEMENT_GLYPHS = {
-  generic: '●',
-  core: '◆',
-  plank: '▬',
-  lunge: '◢',
-  innerThigh: '◇',
-  glute: '◓',
-  arms: '✦',
-  obliques: '◣',
-};
-
 const appEl = document.getElementById('app');
 
 const stateStore = {
@@ -290,22 +279,6 @@ function startTimer() {
   }, 1000);
 }
 
-function buildDiagram(seg) {
-  const glyph = MOVEMENT_GLYPHS[seg.movementType] || MOVEMENT_GLYPHS.generic;
-  return h(
-    'div',
-    { class: `diagram mv-${seg.movementType} side-${seg.side} is-running` },
-    h('div', { class: 'diag-springs' }, ...Array.from({ length: 3 }, () => h('span', { class: 'coil' }))),
-    h(
-      'div',
-      { class: 'diag-rail' },
-      h('div', { class: 'diag-carriage' }, h('span', { class: 'diag-figure' }, glyph)),
-    ),
-    h('div', { class: 'diag-platform' }),
-    h('div', { class: 'diag-label' }, `${seg.movementType} · ${seg.side}`),
-  );
-}
-
 function infoBlock(label, items, cls) {
   if (!items || !items.length) return null;
   return h(
@@ -332,7 +305,6 @@ function refreshMovement() {
     ),
     h('h2', { class: 'move-title' }, seg.title),
     seg.focusArea ? h('p', { class: 'move-focus' }, seg.focusArea) : null,
-    buildDiagram(seg),
     seg.position ? infoBlock('Position / setup', [seg.position], 'position') : null,
     seg.details ? infoBlock('Details', [seg.details], 'details') : null,
     infoBlock('Cues', seg.cues, 'cues'),

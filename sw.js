@@ -1,7 +1,7 @@
 // Service worker: precache the app shell so Microformer Coach works offline
 // after the first load (when served over HTTP/HTTPS).
 
-const CACHE = 'microformer-coach-v1';
+const CACHE = 'microformer-coach-v2';
 
 const ASSETS = [
   './',
