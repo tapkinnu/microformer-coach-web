@@ -353,7 +353,7 @@
       {
         "id": "d4663e13-1029-5187-9b97-82b06b9c3878",
         "title": "Switch Sides",
-        "durationSeconds": 20,
+        "durationSeconds": 47,
         "spring": {
           "springs": [
             {
@@ -511,7 +511,7 @@
       {
         "id": "c780f2b4-d2c8-53e4-b564-a1af1494a493",
         "title": "Set Up Inner Thighs",
-        "durationSeconds": 20,
+        "durationSeconds": 47,
         "spring": {
           "springs": [
             {
@@ -639,7 +639,7 @@
       {
         "id": "b2d5b7ae-6e84-5970-84e3-95a442386498",
         "title": "Change Springs \u00b7 1 White + 1 Grey",
-        "durationSeconds": 20,
+        "durationSeconds": 46,
         "spring": {
           "springs": [
             {
@@ -780,7 +780,7 @@
       {
         "id": "80abb7e8-98d8-50af-bdfd-04bdd51bf01f",
         "title": "Switch Sides",
-        "durationSeconds": 20,
+        "durationSeconds": 46,
         "spring": {
           "springs": [
             {
@@ -921,7 +921,7 @@
       {
         "id": "1098b844-3f1f-5c3d-9fc8-83a4d7688dcf",
         "title": "Add Cables \u00b7 1 Black + 1 White",
-        "durationSeconds": 20,
+        "durationSeconds": 46,
         "spring": {
           "springs": [
             {
@@ -1092,7 +1092,7 @@
       {
         "id": "99899120-4adf-5bb7-bbd0-43036f8813b5",
         "title": "Switch Sides",
-        "durationSeconds": 20,
+        "durationSeconds": 46,
         "spring": {
           "springs": [
             {
@@ -1263,7 +1263,7 @@
       {
         "id": "faf1502b-66f9-5e72-bea9-561558793d19",
         "title": "Detach Cables \u00b7 1 Black",
-        "durationSeconds": 20,
+        "durationSeconds": 46,
         "spring": {
           "springs": [
             {
@@ -1482,7 +1482,7 @@
       {
         "id": "c5f22834-f606-5432-b066-0ed04fc365b3",
         "title": "Switch Sides",
-        "durationSeconds": 20,
+        "durationSeconds": 46,
         "spring": {
           "springs": [
             {
@@ -1577,32 +1577,6 @@
         ],
         "side": "left",
         "movementType": "obliques",
-        "isTransition": false
-      },
-      {
-        "id": "0f9d977a-e803-516c-8b82-eec9c86621e8",
-        "title": "Cool Down & Breath",
-        "durationSeconds": 210,
-        "spring": {
-          "springs": [
-            {
-              "color": "black",
-              "count": 1
-            }
-          ],
-          "note": "release tension"
-        },
-        "focusArea": "Recovery",
-        "position": "Seated or kneeling, carriage still.",
-        "details": "Slow stretches and breath work. Thank the class and let the heart rate settle.",
-        "cues": [
-          "Long exhales",
-          "Roll the shoulders down and back"
-        ],
-        "corrections": [],
-        "variations": [],
-        "side": "bilateral",
-        "movementType": "generic",
         "isTransition": false
       }
     ],

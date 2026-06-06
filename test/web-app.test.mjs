@@ -29,8 +29,10 @@ test('normalizes Swift-generated built-in program JSON for the web app', () => {
 
   assert.equal(programs.length, 4);
   assert.equal(programs[0].name, 'Attached 45-Min Full Body Microformer');
-  assert.equal(programs[0].segments.length, 60);
+  assert.equal(programs[0].segments.length, 59);
   assert.equal(programs[0].durationSeconds, 2700);
+  assert.equal(programs[0].segments.at(-1).title, 'Side Plank Thread the Needle');
+  assert.equal(programs[0].segments.some((segment) => segment.focusArea === 'Recovery'), false);
   assert.equal(programs[0].segments[0].springLabel, '1 black · start light');
   assert.equal(programs[0].segments[1].cues.includes('Slow is harder'), true);
 });
